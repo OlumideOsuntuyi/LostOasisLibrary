@@ -1,0 +1,7 @@
+﻿namespace LostOasisLibrary
+{
+    namespace UnityEngine
+    {
+
+    }
+}
