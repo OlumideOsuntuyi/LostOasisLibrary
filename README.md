@@ -42,7 +42,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to modif
 
 ## Contact
 
-For any inquiries or support regarding the Lost Oasis Unity Library, please contact Lost Oasis at [contact@lostoasis.com](mailto:contact@lostoasis.com).
+For any inquiries or support regarding the Lost Oasis Unity Library, please contact Lost Oasis at [contact@lostoasis.com](mailto:lostoasis.studios@gmail.com).
 
 ---
 
